@@ -8,8 +8,8 @@
   <!-- TODO: If you want to add logo or banner you can add it here -->
     
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">LEARNPHP</h3>
+<!-- TODO: Temporary!! -->
+  <h3 align="center">MID MINERS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -21,7 +21,7 @@
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
-![](https://visit-counter.vercel.app/counter.png?page=lutherdev/AD-Task-3)
+![](https://visit-counter.vercel.app/counter.png?page=lutherdev/AD-Activity-1)
 
 [![wakatime](https://wakatime.com/badge/user/07922ef3-1982-4f9d-9785-e4224b8b3d43/project/a57ff610-b71a-440d-8bae-5282633b0ada.svg)](https://wakatime.com/badge/user/07922ef3-1982-4f9d-9785-e4224b8b3d43/project/a57ff610-b71a-440d-8bae-5282633b0ada)
 
